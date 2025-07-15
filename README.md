@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 Currently a student at EPITA.<br>📊 Specialized in finance related programming and low level languages.<br>💻 Interested in Quantum Computing technologies (QC Engine).<br>🌎 More than 2500 users of my financial tools.
+📊 Specialised in computer science, finance-related programming, API and high performance programming. Extensive experience in algorithmic trading based on randomness (especially Martingale-based strategies) and stochastic calculations. (FOREX - CFD).
+🎓 Student at EPITA (2026).
+🌎 Paris, France. Abu Dhabi, United Arab Emirates.
 
 
 ## 🌐 Socials:
