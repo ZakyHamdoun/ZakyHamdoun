@@ -3,6 +3,7 @@
 
 
 🧑‍💻 Technology @ Morgan Stanley.
+
 🎓 Student at EPITA (2026).
 
 🌎 Paris, France. Abu Dhabi, United Arab Emirates.
