@@ -1,6 +1,8 @@
 # 💫 About Me:
 📊 Specialised in computer science, finance-related programming, API and high performance programming. Extensive experience in algorithmic trading based on randomness (especially Martingale-based strategies) and stochastic calculations. (FOREX - CFD).
 
+
+🧑‍💻 Technology @ Morgan Stanley.
 🎓 Student at EPITA (2026).
 
 🌎 Paris, France. Abu Dhabi, United Arab Emirates.
