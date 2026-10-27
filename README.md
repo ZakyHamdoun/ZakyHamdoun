@@ -61,8 +61,6 @@
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-%23D83B01.svg?style=for-the-badge\&logo=microsoftoffice\&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZakyHamdoun&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZakyHamdoun&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakyHamdoun&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
